@@ -31,7 +31,7 @@ The dashboard analyzes Pat Cummins' IPL batting and bowling performance across m
 - Professional sports analytics layout
 
 ## Dashboard Preview
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](dashboard-preview.JPG)
 
 ## Key Insights
 - Pat Cummins recorded his highest wickets in IPL 2024.
